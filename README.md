@@ -15,7 +15,7 @@ O objetivo é centralizar, em um único lugar, materiais de estudo e apoio compu
 
 Este é o livro principal do repositório. O material em Python associado ao livro está organizado em notebooks correspondentes aos capítulos disponíveis.
 
-### 2. Livros de referência
+### 2. Livros
 
 - **Convex Optimization** — *Stephen Boyd* e *Lieven Vandenberghe*  
   Arquivo: `Convex Optimization – Boyd and Vandenberghe(1).pdf`
@@ -90,7 +90,7 @@ Its purpose is to centralize study and computational support materials in a sing
 
 This is the main book of the repository. The Python material associated with it is organized in notebooks corresponding to the available chapters.
 
-### 2. Reference books
+### 2. Books
 
 - **Convex Optimization** — *Stephen Boyd* and *Lieven Vandenberghe*  
   File: `Convex Optimization – Boyd and Vandenberghe(1).pdf`
@@ -106,6 +106,9 @@ This is the main book of the repository. The Python material associated with it 
 
 - **Algorithms for Decision Making** — *Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray*  
   File: `AlgorithmsforDecisionMaking(1).pdf`
+
+- **Mathematics for Machine Learning** — *Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong*
+  Arquivo: `Mathematics for Machine Learning.pdf`
 
 ### 3. Slides
 
