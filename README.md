@@ -32,6 +32,9 @@ Este é o livro principal do repositório. O material em Python associado ao liv
 - **Algorithms for Decision Making** — *Mykel J. Kochenderfer, Tim A. Wheeler e Kyle H. Wray*  
   Arquivo: `AlgorithmsforDecisionMaking(1).pdf`
 
+- **Mathematics for Machine Learning** — *Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong*
+  Arquivo: `Mathematics for Machine Learning.pdf`
+
 ### 3. Slides
 
 - **Original lecture slides**  
